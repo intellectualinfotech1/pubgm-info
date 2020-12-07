@@ -1,0 +1,710 @@
+{
+  "weaponcategory":[
+    {
+      "wname":"AR",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/M416.png"
+    },
+    {
+      "wname":"Bolt Action Sniper Rifles",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/M24.png"
+    },
+    {
+      "wname":"Automatic Sniper Rifles",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/SKS.png"
+    },
+    {
+      "wname":"SMG",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/UZI.png"
+    },
+    {
+      "wname":"Shotguns",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/DBS.png"
+    },
+    {
+      "wname":"Light Machine Gun",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/M249.png"
+    },
+    {
+      "wname":"Pistol",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/PistolFlare Gun.png"
+    },
+    {
+      "wname":"Melee",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/MeleePanSticker.png"
+    },
+    {
+      "wname":"Other",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/OtherCrossbow.png"
+    }
+  ],
+
+  "vehiclecategory":[
+    {
+      "wname":"UAZ",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Uaz.png"
+    },
+    {
+      "wname":"Pickup",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Pickup.jpg"
+    },
+    {
+      "wname":"Sedan",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Mirado.jpg"
+    },
+    {
+      "wname":"Motorcycle",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Motorcycle.jpeg"
+    },
+    {
+      "wname":"Boat",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/PG-117.jpg"
+    },
+    {
+      "wname":"Other",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Snowmobile.jpg"
+    }
+  ],
+
+  "outfitcategory":[
+    {
+      "wname":"Suit",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Coat.png"
+    },
+    {
+      "wname":"Cap",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Cowboy Hat Brown.png"
+    },
+    {
+      "wname":"Goggles",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Rimless Sunglasses.png"
+    },
+    {
+      "wname":"Mask",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Gas Mask Full.jpg"
+    },
+    {
+      "wname":"Shirt",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Military Shirt Gray.png"
+    },
+    {
+      "wname":"Pants",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Pilot Pants.png"
+    },
+    {
+      "wname":"Shoes",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Leather Boots Black2.png"
+    },
+    {
+      "wname":"Gloves",
+      "wimage":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Punk Knuckle Gloves Black.png"
+    }
+  ],
+
+  "weapon":[
+    {
+      "wcategory":"AR",
+      "name":"AKM",
+      "description":"As you would guess from the 7.62 bullets, the AKM packs a punch for a fully-automatic assault rifle. Stick to semi-automatic fire for medium- and long-range engagements as the recoil will prove too difficult to manage. The AKM can only accept a muzzle, magazine, and sight attachment. Given its ability to kill armoured targets with five shots we recommend a sight as it can make the AKM devastating in the right hands.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/AKM.png"
+    },
+    {
+      "wcategory":"AR",
+      "name":"M16A4",
+      "description":"Solid damage, low recoil, high bullet velocity (which means low bullet drop), and plenty of scope when it comes to which attachments you can plug onto this notorious rifle: the M16A4 is a beast. However, a lot of players ignore it due to its lack of a full-automatic fire mode. To make up for that, you can switch this PUBG weapon to burst fire for a DPS rating close to that of the Groza – just bear in mind the delay between bursts, which makes the M16A4 tough to use up close.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/M16A4.png"
+    },
+    {
+      "wcategory":"AR",
+      "name":"SCAR-L",
+      "description":"It might have the lowest DPS rating of any assault rifle in PUBG, but the SCAR-L makes up for it with its fully-automatic recoil pattern, which is comparable to the amount of kick produced by the M16A4 when firing in single-shot mode. While, theoretically, an enemy with a Groza should win in a duel, in practice you will have a much easier time landing all of your shots and may come out on top because of it. You can also outfit the SCAR-L with most AR attachments, though it is worth noting that the iron sights are very limiting, so a sight or scope should take precedent when looting buildings.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/SCAR-L.png"
+    },
+    {
+      "wcategory":"AR",
+      "name":"M416",
+      "description":"The M416 will deal maximum damage out to 60 meters, with damage reaching a minimum at 445 meters.Compared to the other 5.56mm assault rifles, in its unmodified state the M416 is fairly similar to the others besides its slightly faster rate of fire compared to the SCAR-L, however its strong points are the fact that it can accept the most modifications of any of the assault rifles, accepting muzzle, magazine, stock, lower and upper rail attachments, as well has having exceptional stability, only bested by the AUG.A fully modified M416 is therefore highly sought after as its very low recoil allows for controllable fully automatic fire, even with a 4x ACOG Scope attached.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/M416.png"
+    },
+    {
+      "wcategory":"AR",
+      "name":"Groza",
+      "description":"Another assault rifle that can only be found in airdrop crates, the Groza is a real gem and nearly unrivalled in terms of its damage per second (DPS) rating. As it chambers the same 7.62 cartridge as the AKM every shot deals a lot of impact, but where the Groza excels is in its rate of fire: you can unload 750 rounds per minute with the Groza compared to the AKM’s 600 rounds per minute. Muzzle, mag, and sight attachments are available for the Groza – as it has a lot of recoil, it is advisable to gear this PUBG weapon as if it is a submachine gun.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Groza.png"
+    },
+    {
+      "wcategory":"AR",
+      "name":"AUG",
+      "description":"Currently, the AUG A3 can only be found in airdrop crates, so getting your hands on one is pretty difficult. Decent burst recoil makes this assault rifle highly effective up to medium range. It is also one of the more versatile PUBG weapons when it comes to attachments and can be fitted with most sights, a variety of muzzle attachments, extended and quickdraw magazines, and grips.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/AUG.png"
+    },
+    {
+      "wcategory":"AR",
+      "name":"QBZ",
+      "description":"Struggling to find the SCAR-L on Sanhok? In the PUBG new map the SCAR-L has been replaced by the Chinese QBZ95, a modern bullpup assault rifle. This world spawn rifle has a slightly buffed spawn rate so it should be easy to find. Like the SCAR-L, the QBZ95 chambers a 5.56mm round that deals 43 damage per hit and carries 30 rounds in a standard magazine, which can be upped to 40 with the extended magazine attachment.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/QBZ.png"
+    },
+    {
+      "wcategory":"AR",
+      "name":"M762",
+      "description":"The Beryl M762 is a versatile assault rifle with more attachment points than the AKM, on par with the SCAR-L. Its base damage per shot is slightly lower than the other 7.62mm assault rifles, offset by its rate of fire being almost as fast as that of the Groza, allowing its overall damage per second to be significantly higher than the comparable AKM. This comes at the cost of significantly higher recoil that — unlike the AKM — can be reduced by attaching foregrips.A new versatile Assault Rifle which spawns on Erangel, Miramar and Sanhok.Beryl M762 uses 7.62mm ammunition and can load up to 30 rounds (40 with an extended magazine).The Beryl has upper and lower rails, allowing for scopes and a grip.It has lower per bullet damage than the AKM, but a higher firing rate, meaning higher DPS if you can control the kick.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/M762.png"
+    },
+    {
+      "wcategory":"AR",
+      "name":"Mk47",
+      "description":"The Mutant deals the same per bullet damage as the AKM, but with the accuracy of it’s two-round burst fire mode, it can be lethal at mid-range. The Mutant also boasts both upper and lower rails so you can outfit it with a bevy of attachments that extend its effective reach. Just don’t rely on in it close-quarters as most fully automatic weapons will outstrip it in terms of damage per second.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Mk47.png"
+    },
+    {
+      "wcategory":"AR",
+      "name":"G36C",
+      "description":"G36C fires 5.56mm rounds and has a single-mode as well as full-auto mode. A weapon that can be equipped with a variety of attachments and is great for all ranges.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/G36C.png"
+    },
+
+    {
+      "wcategory":"Bolt Action Sniper Rifles",
+      "name":"Kar98K",
+      "description":"The Karabiner 98k is a controlled-feed bolt-action rifle based on the Mauser M98 system. Its internal magazine can be loaded with five 7.92×57mm Mauser cartridges from a stripper clip or one-by-one.After loading, the empty clip is ejected when the bolt is closed.The straight bolt handle found on the Gewehr 98 bolt was replaced by a turned-down bolt handle on the Karabiner 98k. Players can find it in random locations depending upon the spawn. Although the hit damage of the weapon is lesser than AWM, the Kar98k still does respectable amount of damage to players with level 2 helmets.Players can use Kar98 in medium to long-range fights with ways to push the enemy after hitting deadly shots with the sniper.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Kar98K.png"
+    },
+    {
+      "wcategory":"Bolt Action Sniper Rifles",
+      "name":"M24",
+      "description":"The M24 can be seen as another option after the Kar98k, with lower damage but higher muzzle velocity, it has slightly more deviation when not aiming down the sights.Being loaded via magazines, tactical reloads will be faster compared to the Kar98k's one-by-one reload, although full reloads with the M24's standard magazine will be slightly slower compared to a full reload with the Kar98k.Nevertheless, the M24 is a valuable weapon that should be prioritized for its ability to deal large amounts of damage at great distances.The M24 will deal maximum damage out to 120 meters.Beyond that distance, damage will decrease, reaching its minimum damage value at 580 meters.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/M24.png"
+    },
+    {
+      "wcategory":"Bolt Action Sniper Rifles",
+      "name":"AWM",
+      "description":"Arguably the best sniper rifle in the game, there is a good reason for the AWM being a rare drop from airdrop crates: it is the only non-shotgun with a power rating of 100. That translates to a one-hit kill on unarmoured enemies, and two shots if they are wearing armour; headshots against any level of helmet are a guaranteed kill. In addition, the AWM also has next to no bullet drop, so you should have no problem landing those lethal .300 magnum shots.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/AWM.png"
+    },
+    {
+      "wcategory":"Bolt Action Sniper Rifles",
+      "name":"Win94",
+      "description":"It is hard to place this antique rifle into any PUBG weapons category: it cannot take any attachments, it deals reasonable damage, and it is lever-action. Since no scope will fit this rifle, its practical range is relatively short. However, the Win94 does boast high bullet velocity and enough damage to put an enemy down in a few shots. Unfortunately, the lever-action means this rifle takes as long as the 98 Kurz to fire consecutive shots, so a missed shot can be a death sentence with this rifle. So, when should you use the Win94? The Win94 excels at mid-range where you can take time to place each devastating shot, but only if you cannot find a better DMR or sniper rifle. The Win94 is exclusive to the new Miramar map.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Win94.png"
+    },
+
+    {
+      "wcategory":"Automatic Sniper Rifles",
+      "name":"SKS",
+      "description":"SKS is the most basic DMR that uses the 7.62mm ammo and can be found on all the maps on PUBG. This gun has the lowest range among the DMRs using bigger bullets, and its damage of 53 is higher than the Mini 14 and QBU that use 5.56mm ammo. Without any equipment, this gun has a lot of recoil and can be difficult to use at longer ranges. But it has the option of a lot of mods that increase stability a lot. It comes with a slot for a cheek pad, magazine, grip, muzzle and a scope. It holds a normal magazine of 10 bullets, which can be extended to 20.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/SKS.png"
+    },
+    {
+      "wcategory":"Automatic Sniper Rifles",
+      "name":"VSS",
+      "description":"The most basic form of sniper rifle found in the game is VSS and it is an underrated gun because hardly anyone uses it. It has potential because It can be equipped with a cheek pad and an extended mag. This gun comes with a built in suppressor and scope and uses 9mm ammo which is used in pistols and SMGs. It has a very short range and can be fired in an auto mode. The damage from VSS is the lowest among all the DMRs and Snipers at 41. It holds a normal magazine of 10 bullets, which can be extended to 20.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/VSS.png"
+    },
+    {
+      "wcategory":"Automatic Sniper Rifles",
+      "name":"Mini14",
+      "description":"Mini 14 is the most basic sniper rifle that uses 5.56mm ammo and its substitute for the Sanhok map is the QBU. Mini 14 has the lowest damage (46) among the DMRs and snipers that use 5.56mm and 7.62mm ammo. The QBU on the other hand has a damage of 48 which is slightly higher than the Mini 14. Both the Mini 14 and QBU have extremely long range, which is highest among the DMRs. Both these rifles have relatively low recoil and can be fit with scopes, muzzle items and magazine mods. The QBU even comes with a bipod which increases stability a lot while proning on the ground. The Mini 14 holds a normal magazine of 20 bullets, which can be extended to 30, while the QBU holds a normal magazine of 10 bullets, which can be extended to 20. Both these weapons have only a single fire mode.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Mini14.png"
+    },
+    {
+      "wcategory":"Automatic Sniper Rifles",
+      "name":"Mk14",
+      "description":"The Mk14 is the best among all the DMRs because it has does the most damage and even has an automatic mode. The Mk14 is only available inside air dropped loot crates in the game which makes it an extremely rare gun. It has a damage of 61 and the longest range among all the DMRs that use 7.62mm ammo. It has high recoil especially in the auto mode which can be reduced using attachments. It has slots for a cheek pad, magazine, muzzle and scope, it also come with a bipod which stabilizes the gun when shooting while prone. It holds a normal magazine of 10 bullets, which can be extended to 20.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Mk14.png"
+    },
+    {
+      "wcategory":"Automatic Sniper Rifles",
+      "name":"SLR",
+      "description":"The SLR is a more powerful version of the SKS but it comes with less options in terms of attachments. It has a damage of 58 which happens to be the highest among the DMRs that are freely available in the maps. It has a longer range compared to the SKS as well. But it has higher general recoil and which can be reduced. It’s attachments include a slot for a cheek pad, magazine, muzzle and a scope. It holds a normal magazine of 10 bullets, which can be extended to 20.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/SLR.png"
+    },
+    {
+      "wcategory":"Automatic Sniper Rifles",
+      "name":"QBU",
+      "description":"The QBU even comes with a bipod which increases stability a lot while proning on the ground. The Mini 14 holds a normal magazine of 20 bullets, which can be extended to 30, while the QBU holds a normal magazine of 10 bullets, which can be extended to 20. Both these weapons have only a single fire mode.Mini 14 is the most basic sniper rifle that uses 5.56mm ammo and its substitute for the Sanhok map is the QBU.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/QBU.png"
+    },
+    {
+      "wcategory":"Automatic Sniper Rifles",
+      "name":"MK12",
+      "description":"The MK12 is a marksman rifle that packs a lot more damage than the others in its class. It uses .556 with a base magazine of 20 rounds that jumps to 30 with an extended mag, giving you a surprisingly hefty well of lead to draw from compared to other marksman rifles. The damage is surprisingly high for a non-crate weapon and it takes only about a second to drop players, even without headshots.The MK12 is excellent at engaging hostiles at medium to long range for its impeccable accuracy, comparatively lower bullet drop and nearly non-existent recoil. If you come across an MK12, it is usually worth it to pick it up if you have close-quarters specialist like an UZI or the P90.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/MK12.png"
+    },
+
+    {
+      "wcategory":"SMG",
+      "name":"UZI",
+      "description":"The Uzi in PUBG Mobile has the highest rate of fire and is deadly in close range.Its high rate of fire makes it great room cleaner but magazine is empty quick and on longer ranges this SMG in almost uncontrollable.UZI has 4 attachments slots: muzzle, magazine, stock, and scope (red dot or holographic sight only).Spray your ammo but beware to not shoot yourself in the foot.The uzi does have a slightly faster rate of fire and is useful in close quarters but the downside is lack of attachments on the uzi.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/UZI.png"
+    },
+    {
+      "wcategory":"SMG",
+      "name":"UMP45",
+      "description":"UMP45 is Modern submachine gun.The UMP45 deals the second highest damage of all the SMGs, right behind the Tommy Gun, making it a very viable late-stage gun when fitted out with attachments. Its already small recoil can be reduced even further with a foregrip and compensator, and stealthy players can choose the suppressor instead of using the compensator.Increased base bullet damage from 39 to 41.Increased muzzle velocity from 300 to 360.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/UMP45.png"
+    },
+    {
+      "wcategory":"SMG",
+      "name":"Vector",
+      "description":"The horizontal recoil in the Vector is pretty low, so the main thing that needs to be handled is the vertical recoil. Additionally, one thing you should note is that the gun is pretty accurate for its first 10 shots.The horizontal recoil in the Vector is pretty low, so the main thing that needs to be handled is the vertical recoil. Additionally, one thing you should note is that the gun is pretty accurate for its first 10 shots.If you’re someone who picks the half-grip for the Vector, it means you probably stick to close-range and in that case, you should go with the Red Dot sight which will help you aim more accurately.But if you’re choosing the vertical grip, go with the 6x scope because that will help you fight at long range, and you can switch it to the 3x which will be helpful in mid-range fights.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Vector.png"
+    },
+    {
+      "wcategory":"SMG",
+      "name":"Thompson SMG",
+      "description":"Firing the slow but hard-hitting .45 ACP cartridge, this vintage submachine gun deals the most damage out of all the SMGs, however the inability of this gun to attach sights, coupled with its relatively strong recoil makes it a challenge to use, even in close quarters combat. Extended magazines are highly recommended as the reload time remains unchanged, while magazine capacity is almost doubled.Added upper rail to attach Red Dot and Holo Sights.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Thompson SMG.png"
+    },
+    {
+      "wcategory":"SMG",
+      "name":"Bizon",
+      "description":"The Bizon is quiet but deadly 9mm submachine gun, the Bizon is best suited for quick but accurate sparring in close-range, but keep in mind that it comes with a bit of a kick.The Bizon is quiet but deadly 9mm submachine gun, the Bizon is best suited for quick but accurate sparring in close-range, but keep in mind that it comes with a bit of a kick. Though its overall damage per sound is lower than the UMP9 and Vector its large magazine and reduced sound will have you covered in situations that call for a quick sneak attack in close quarters.Uses 9mm ammunition and holds 53 rounds by default.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Bizon.png"
+    },
+    {
+      "wcategory":"SMG",
+      "name":"MP5K",
+      "description":"The new weapon MP5K is a sub-machine gun chambered for 9mm ammunition which will be exclusive to Vikendi and will replace the Vector on that map. While the firing mechanics of the MP5K are similar to those of the Vector, it boasts a higher per bullet damage, but with a lower overall firing rate and DPS. This SMG also has a higher magazine capacity than the Vector, starting at 30 rounds by default with 40 rounds in an extended magazine.The MP5K has a damage of 32 which is just one more than the Vector. But it has the third highest rate of fire among the SMGs at 0.064 just behind the UZI and Vector. This stat is directly related to the time it takes to kill someone wearing a level 2 vest. As for the time required to kill someone wearing a level 2 vest, the MP5K takes only 0.322 seconds.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/MP5K.png"
+    },
+    {
+      "wcategory":"SMG",
+      "name":"P90",
+      "description":"P90 is a weapon, belonging to the SMG class. This weapon has a large capacity with a clip size that can hold up to 50 bullets. The weapon can be used in three ways, namely Single Fire Mode which is suitable for long distances, Burst Fire Mode for medium-range, and Automatic Mode which is perfect for short distances.P90 gun in real life is a weapon that was made because of a request from countries in the NATO Alliance to replace the previous weapon using 9x19 bullets. The weapon was made by a Belgian company called FN Herstal and was made with the aim of being a defensive weapon commonly used by reserve army units.If you are a Shooting game fan, you should already know that P90 has an amazingly good level of accuracy. This weapon is suitable for near-medium range combat.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/P90.png"
+    },
+
+    {
+      "wcategory":"Shotguns",
+      "name":"S686",
+      "description":"The S686 offers unparalleled burst damage in CQB due to its ability to almost instantaneously fire two 12-gauge shells, but it quickly loses damage at range unless equipped with a choke, and has a very long reload time, making dealing with enemies at range or more than one enemy difficult. Although it is tied with the sawed-off shotgun in that both have the lowest ammo capacity of the shotguns in the game, the S686 has the fastest rate of fire of all the shotguns, allowing for skilled users to potentially gain an upper hand in otherwise unfortunate situations. When fitted with a choke, the S686 can perform surprisingly well at distances up to 15m. The low ammo capacity leaves no room for error however, as a missed shot can mean a quick death. Damage falloff starts off immediately. Beyond 285 meters, targets will not take any damage at all. Increased per pellet base damage of S686, S1897 from 24 to 26. Reduced maximum bullet travel distance of all shotguns from 1000 m to 150 m.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/S686.png"
+    },
+    {
+      "wcategory":"Shotguns",
+      "name":"S1897",
+      "description":"The S1897 excels in clearing houses with the simple point-and-shoot principle, its spread allowing a greater probability of hitting the target. Careful aim is still essential since missing one shot can easily result in death due to the time required to rack the pump. With a choke attached, the shotgun gains considerable range in the form of 25% tighter spread, being able to take out opponents from a fairly long distance. The reduced spread means reduced effectiveness in close quarters combat however. The duckbill choke has the opposite effect, spreading the pellets over a wider horizontal area, increasing effectiveness at close range. Maximum effective range set to 80 m. Increased per pellet base damage of S686, S1897 from 24 to 26. Reduced maximum bullet travel distance of all shotguns from 1000 m to 150 m.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/S1897.png"
+    },
+    {
+      "wcategory":"Shotguns",
+      "name":"S12K",
+      "description":"The S12K is a devastating weapon at close range while its semi-automatic action makes killing multiple enemies easier than with its pump-action or double-barrel counterparts. The weapon also has an advantage over other shotguns in its reloading time due to being magazine-fed. While its rate of fire allows four shells to be discharged within one second, the extreme recoil means putting multiple consecutive shots into the intended target difficult. Increased per pellet base damage of S12K from 22 to 24. Reduced maximum bullet travel distance of all shotguns from 1000 m to 150 m.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/S12K.png"
+    },
+    {
+      "wcategory":"Shotguns",
+      "name":"DBS",
+      "description":"A bullpup style shotgun that can hold up to 14 shells of 12 Gauge lethality, it has by far the largest damage potential of any shotgun available in the game, countered by the fact that reloading that many shells will take an obscene amount of time. The DBS has a unique method of firing in that the pump is racked after every two shells fired, chambering the next two, making it excellent for dealing burst damage by peeking in and out of cover with each shot. Being a shotgun, the DBS is best used in close quarters combat situations when you want to end a fight quickly and efficiently. DBS has two internal magazine tubes that allow the user to load up to fourteen 12-gauge rounds. Upper rail of the gun allows a Holographic, Red Dot Sight, and 2x to 6x Scopes. Maximum effective range to deal damage with the DBS is 100 m.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/DBS.png"
+    },
+
+    {
+      "wcategory":"Light Machine Gun",
+      "name":"M249",
+      "description":"With 100 rounds of 5.56mm ammo per magazine, the M249 excels at room clearing, dealing slightly more damage than the 5.56mm assault rifles with a rate of fire as fast as that of the M16A4. The recoil is somewhat low, however the high rate of fire makes it harder to control. This gun also burns through ammo very fast, particularly when keeping targets pinned behind cover, therefore it is advisable to stock up on as much 5.56mm ammo as can be carried if planning to use this weapon for extended engagements. The M249 will deal maximum damage out to 75 meters, beyond that distance damage will begin to decrease, reaching its minimum value at 385 meters. Reduced standard ammo capacity to 75. Now holds 150 with an extended mag. Decreased base bullet damage from 45 to 40.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/M249.png"
+    },
+    {
+      "wcategory":"Light Machine Gun",
+      "name":"DP-28",
+      "description":"Like the M249, the DP-28 can only have sights and scopes as attachments. Unlike the M24, however, you can find this Russian LMG as a world drop, making it much safer to acquire. It packs a punch with every 7.62 bullet, but you can manage the substantial recoil by deploying the integrated bipod. Its slow rate of fire and low bullet velocity make its recoil very manageable at short and medium ranges.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/DP-28.png"
+    },
+
+    {
+      "wcategory":"Pistol",
+      "name":"P92",
+      "description":"The P92 is the middle ground of the pistols, with a balance of firepower and ammo capacity. With a modest rate of fire and steady hands, this pistol can quickly determine the winner in early game fights while everyone is rushing to find guns. It makes a good backup weapon for emergencies and while extended magazines may seem tempting due to the capacity increase, quickdraw magazines may prove more beneficial for users who frequently reload, at least until extended quickdraw magazines can be found. Damage will continually decrease out to 832 meters, past that point absolutely no damage will be dealt to unarmored targets.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Pistol92.png"
+    },
+    {
+      "wcategory":"Pistol",
+      "name":"P1911",
+      "description":"The P1911 packs a punch in a small package. Its damage output is limited only by the small magazine size and the skill of its operator. It is therefore advisable to find an extended or extended quickdraw magazine as soon as possible if planning to keep this weapon as its magazine capacity is almost doubled, greatly increasing its potential as a backup weapon. Due to its slow muzzle velocity of 250 meters per second, it is inadvisable to use this gun at ranges further than 50 meters. Damage falloff begins after the bullet has traveled one meter and will continually decrease for as long as the bullet is in flight.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Pistol1911.png"
+    },
+    {
+      "wcategory":"Pistol",
+      "name":"R1895",
+      "description":"The R1895 is one of the most challenging weapons to use, in that it has severe drawbacks that usually negate its benefits. Its extremely long reload time (with empty reloads being almost as slow as reloading an M249), inability to mount a red dot sight and fire rate slower than any of the other pistols make it a last resort weapon in nearly every situation, unless when sneaking up on players. Damage will continually decrease for as long as the bullet is in flight.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/PistolR1895.png"
+    },
+    {
+      "wcategory":"Pistol",
+      "name":"P18C",
+      "description":"The P18C is a automatic secondary and because of this it's the lowest damaging pistol in the game. Despite this, it actually boasts the highest damage per second of all the pistols, even rivaling submachine guns in terms of utility. The P18C is the best secondary in the game in terms of putting down lead downrange in a hurry and can even sometimes be used as a primary if you wish to do so. The high rate of fire means a good amount of damage per second but with a rather high recoil, so users might use the P18C with attachments such as sights and barrel attachments. This weapon is not suitable for long-range engagements, but as a backup pistol, you can be sure to put targets full of holes if you can control it.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Pistol18C.png"
+    },
+    {
+      "wcategory":"Pistol",
+      "name":"R45",
+      "description":"A powerful revolver that can be seen as Miramar's version of the R1895, it has one less round than the R1895, but reloads with a speedloader instead of loading individual rounds, greatly reducing reload time. It also uses the common .45 Ammo instead of 7.62mm rounds. Like the R1895, it can only accept one type of attachment, but instead of a suppressor it can only mount a red dot sight instead, allowing for a clearer sight picture, although the existing sights are relatively clear compared to the R1895. Damage will continually decrease for as long as the bullet remains in flight. It uses .45 ammo and 6 bullets can be loaded. Red dot sight can be attached. It has high accuracy and faster reload speed than R1895.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/PistolR45.png"
+    },
+    {
+      "wcategory":"Pistol",
+      "name":"Sawed-off",
+      "description":"The smallest shotgun available in the game, the Sawed-off functions like a pocket S686, albeit with higher spread due to the short barrel. It has two barrels, side-by-side, and as such can hold two rounds. Like the S686, it can quickly fire off both barrels to quickly do a lot of damage. The Sawed-Off has the highest potential damage of any handgun, but also the lowest potential damage and depending on the distance to the target. It has the shortest effective range of all handguns, and is really only useful shortly after landing or in point-blank CQB situations. Maximum effective range set to 80 m. Maximum increased probability range set to 50 m. Increased number of pellets fired to 9. Decreased damage per pellet from 22 to 20. It uses 12 gauge shot and 2 shells can be loaded. No attachments available. It has short range, high dispersion, lower damage than other shotguns but can fire in rapid succession.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/PistolSawed-off.png"
+    },
+    {
+      "wcategory":"Pistol",
+      "name":"Flare Gun",
+      "description":"The Flare gun is an extremely rare weapon that when fired, calls in a custom air drop that drops a larger amount of highly valuable equipment compared to the ordinary air drop. Once a flare is fired straight up into the air and reaches an altitude of 200 meters, a plane will soon fly over the map and drop off either a crate if the player is inside the safe zone, or a BRDM-2 if outside. Firing a flare at a player causes no damage. Changed the Flare Gun crosshair to display as a circle when aiming at the correct position to successfully call in a Special Care Package or Armored UAZ. Adjusted the Flare Gun status UI displayed after calling in a Special Care Package or Armored UAZ. The green flashing light is now removed once the drop leaves the plane. Previously, it would remain until the drop had been on the ground for 30 seconds. The Flare Gun spawn rate is different on each map.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/PistolFlare Gun.png"
+    },
+    {
+      "wcategory":"Pistol",
+      "name":"Skorpion",
+      "description":"A full-sized machine pistol that occupies the sidearm slot, the Skorpion is very controllable for such a weapon, even when fired in full auto. With a 20 round magazine as standard and capable of being increased to 40, it can serve as a dependable pocket SMG to free up the other weapon slots for more powerful guns. It should be noted however that its inability to accept quickdraw or extended quickdraw magazines leave it with a rather lengthy reload time for a sidearm. The Skorpion spawns on all maps. Single fire and full auto fire mode. Uses 9mm ammo, it can load up to 20 bullets and 40 with an Extended Magazine. Skorpion is also available in the Training mode. Have a fun!",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/PistolSkorpion.png"
+    },
+    {
+      "wcategory":"Pistol",
+      "name":"Desert Eagle",
+      "description":"The Desert Eagle is a powerful semi-automatic handgun which causes intense damage of 62 with 248.0 damage per second. The pistol can crush the enemy’s head wearing a Level 3 helmet in only two shots, and can drop the opponent with a Level 1 helmet with a single bullet to the head. The Desert Eagle has an effective fire range being 100 meters which gives a clear message to the opponents to maintain a safe distance. The Deagle utilises 45 ACP ammo, which is quite sufficient for any map. And while it is available on all the maps, it isn't easy to get. This powerful hand canon also comes with the ability to use every attachment that a pistol can use. It can be used with both the Holographic or the Red Dot sights to take its accuracy all the way to the maximum to ensure you can aim straight for the head. The Deagle can house 7 bullets although the capacity can be increased up to 10.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/PistolDesert Eagle.png"
+    },
+
+    {
+      "wcategory":"Melee",
+      "name":"Machete",
+      "description":"The tapanga machete is a long and sharp metal object with a wooden handle used in game as a melee weapon that is exclusively useful against unarmed and unarmored opponents, as it is capable of taking a person without armor down in one hit.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Machete.png"
+    },
+    {
+      "wcategory":"Melee",
+      "name":"Crowbar",
+      "description":"Commonly used to pry objects apart, pull out nails, or swing at an assailant. It does a fair amount of damage, but the slow swing speed and overall poor melee mechanics as a whole make this weapon a last resort when all else has failed.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/Crowbar.png"
+    },
+    {
+      "wcategory":"Melee",
+      "name":"Sickle",
+      "description":"A sickle is a melee weapon consisting of a long wooden rod with a sharp metal part on it. The weapon is highly effective against unarmed opponents and is relatively easy to find.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/MeleeSickle.png"
+    },
+    {
+      "wcategory":"Melee",
+      "name":"Pan",
+      "description":"A cast-iron pan purposely built for cooking up hate for your enemies. In the game, the pan is capable of killing an unarmored opponent in two hits on the body or one hit to the head. The pan will also block bullets fired at players while equipped and while unequipped, allowing it to act as a small shield. It blocks shots from all ranged weapons in the game, including shotguns and the AWM. For these reasons, it is regarded as the best melee weapon in the game. Reduced the Frying Pan damage by 40%.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/MeleePanSticker.png"
+    },
+
+    {
+      "wcategory":"Other",
+      "name":"Crossbow",
+      "description":"The crossbow is a short to medium ranged weapon. It does very high damage, with a shot to the torso capable of killing an unarmored enemy in one shot and headshots being instant kills, even through Spetsnaz helmets. It is also completely silent, allowing for stealthy kills. It suffers from heavy drop, thus, medium to long range shots need to be aimed relatively high to hit a player, however it does come with a reflex sight with a unique reticle that can be used as a rangefinder, with markings for 50, 100, and 200 meter targets. Its reload time is also painfully slow and while the quiver can reduce this time, it necessitates the need for an opportunistic play style when using this weapon. Being completely silent however, this can be a viable weapon when there are only a few players left, especially in foggy weather.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/gun/OtherCrossbow.png"
+    }
+
+  ],
+
+  "skin":[
+    {
+      "wcategory":"Cap",
+      "name":"Beanie Gray",
+      "description":"The Beanie (Gray) is a hat in BATTLEGROUNDS. This item can be found in the Biker Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Beanie Gray.png"
+    },
+    {
+      "wcategory":"Pants",
+      "name":"Camo Combat Pants Gray",
+      "description":"The Combat Pants (Grey Camo) is a pair of pants in BATTLEGROUNDS. This item can be found in the Pioneer Crate, you can buy it on the Steam Marketplace and it was also available on Xbox One via the PUBG Bounty Hunter Set.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Camo Combat Pants Gray.png"
+    },
+    {
+      "wcategory":"Pants",
+      "name":"Camo Hotpants",
+      "description":"The Camo Hotpants is a pair of pants in BATTLEGROUNDS. This item can be found in the Gamescom Invitational Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Camo Hotpants.png"
+    },
+    {
+      "wcategory":"Mask",
+      "name":"Cloth Mask Leopard",
+      "description":"The Cloth Mask (Leopard) is a mask in BATTLEGROUNDS. This item can be found in the Desperado crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Cloth Mask Leopard.png"
+    },
+    {
+      "wcategory":"Suit",
+      "name":"Coat",
+      "description":"The Trench Coat (Grey) is a jacket in BATTLEGROUNDS. This item can be found in the Survivor Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Coat.png"
+    },
+    {
+      "wcategory":"Cap",
+      "name":"Cowboy Hat Brown",
+      "description":"The Cowboy Hat (Brown) is a hat in BATTLEGROUNDS. This item can be found in the Militia Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Cowboy Hat Brown.png"
+    },
+    {
+      "wcategory":"Shirt",
+      "name":"Dirty Tank Top Gray",
+      "description":"The Dirty Tank-top (Grey) is a shirt in BATTLEGROUNDS. This item can be found in the Pioneer Crate, you can buy it on the Steam Marketplace and it was also available on Xbox One via the PUBG Bounty Hunter Set.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Dirty Tank Top Gray.png"
+    },
+    {
+      "wcategory":"Gloves",
+      "name":"Fingerless Gloves Tan",
+      "description":"The Fingerless Gloves (Tan) is a pair of gloves in BATTLEGROUNDS. This item can be found in the Pioneer Crate / Survivor Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Fingerless Gloves Tan.png"
+    },
+    {
+      "wcategory":"Mask",
+      "name":"Gas Mask Full",
+      "description":"The Gas Mask (Full) is a mask in BATTLEGROUNDS. This item can be found in the Pioneer Crate / Wanderer Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Gas Mask Full.jpg"
+    },
+    {
+      "wcategory":"Shoes",
+      "name":"Leather Boots Black",
+      "description":"The Leather Boots (Black) is a pair of shoes in BATTLEGROUNDS. This item can be found in the Desperado Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Leather Boots Black.png"
+    },
+    {
+      "wcategory":"Shoes",
+      "name":"Leather Boots Black 2",
+      "description":"The Leather Boots (Black) is a pair of shoes in BATTLEGROUNDS. This item can be found in the Desperado Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Leather Boots Black2.png"
+    },
+    {
+      "wcategory":"Shirt",
+      "name":"Long Sleeved Turtleneck Black",
+      "description":"The Long Sleeved Turtleneck (Black) is a shirt in BATTLEGROUNDS. This item can be found in the Militia Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Long Sleeved Turtleneck Black.png"
+    },
+    {
+      "wcategory":"Shirt",
+      "name":"Military Shirt Gray",
+      "description":"The Military Shirt (Gray) is a shirt in BATTLEGROUNDS. This item can be found in the Militia Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Military Shirt Gray.png"
+    },
+    {
+      "wcategory":"Pants",
+      "name":"Mini Skirt Purple",
+      "description":"The Mini-skirt (Purple) is a pair of pants in BATTLEGROUNDS. This item can be found in the Survivor Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Mini Skirt Purple.png"
+    },
+    {
+      "wcategory":"Shirt",
+      "name":"Padded Jacket Beige",
+      "description":"The Padded Jacket (Beige) is a jacket in BATTLEGROUNDS. This item can be found in the Pioneer Crate / Survivor Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Padded Jacket Beige.png"
+    },
+    {
+      "wcategory":"Cap",
+      "name":"Patrol Cap Brown",
+      "description":"The Patrol Cap (Brown) is a hat in BATTLEGROUNDS. This item can be found in the Biker Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Patrol Cap Brown.png"
+    },
+    {
+      "wcategory":"Pants",
+      "name":"Pilot Pants",
+      "description":"The Pilot Pants is a pair of pants in BATTLEGROUNDS. This item can be found in the Aviator Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Pilot Pants.png"
+    },
+    {
+      "wcategory":"Goggles",
+      "name":"Punk Glasses",
+      "description":"The Glasses (Punk) are a pair of glasses in BATTLEGROUNDS. This item can be found in the Pioneer Crate / Wanderer Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Punk Glasses.png"
+    },
+    {
+      "wcategory":"Gloves",
+      "name":"Punk Knuckle Gloves Black",
+      "description":"The Punk Knuckle Gloves (Black) is a pair of gloves in BATTLEGROUNDS. This item can be found in the Desperado Crate or you can buy it on the Steam Marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Punk Knuckle Gloves Black.png"
+    },
+    {
+      "wcategory":"Goggles",
+      "name":"Rimless Sunglasses",
+      "description":"The Rimless Sunglasses are a pair of glasses in BATTLEGROUNDS. This item could've been unboxed in the Pioneer Crate. However, since the pioneer crate was replaced with random weekly crates, you can now only purchase them on the Steam marketplace.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Rimless Sunglasses.png"
+    },
+    {
+      "wcategory":"Mask",
+      "name":"Twitch Prime Balaclava",
+      "description":"The Twitch Prime Balaclava (June 2017) is an exclusive mask in BATTLEGROUNDS via the Twitch Prime box crate.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Twitch Prime Balaclava.png"
+    },
+    {
+      "wcategory":"Pants",
+      "name":"Twitch Prime Combat Pants",
+      "description":"The Twitch Prime Combat Pants (June 2017) is an exclusive pair of pants in BATTLEGROUNDS via the Twitch Prime box crate.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Twitch Prime Combat Pants.png"
+    },
+    {
+      "wcategory":"Shirt",
+      "name":"Twitch Prime Shirt",
+      "description":"The Twitch Prime Shirt (June 2017) is an exclusive shirt in BATTLEGROUNDS via the Twitch Prime box crate.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/skin/Twitch Prime Shirt.png"
+    }
+
+  ],
+
+  "vehical":[
+    {
+      "wcategory":"UAZ",
+      "name":"Anubian Magistrate",
+      "description":"The Aquarail is the only other water vehicle in the game apart from the PG-117 and only seats two people. It is slower but has excellent controls. But it also has low HP which means it can be destroyed easily. This is found on all three maps in the game.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/AnubianMagistrateuaz.png"
+    },
+    {
+      "wcategory":"UAZ",
+      "name":"Will of Horus",
+      "description":"This two man vehicle has a very good handling experience and standard speed. It is found on all three of the maps that are there right now. The buggy has a weird positioning for the second player which leaves them exposed to open fire. A buggy is the most useful for traversing tough terrain. The vehicle itself is pretty difficult to hit when moving and it require quite a few bullets to destroy.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/WillofHorusuaz.png"
+    },
+    {
+      "wcategory":"UAZ",
+      "name":"Camo",
+      "description":"The Dacia is an unassuming four-seater sedan that is available only in Erangel map. It may be unassuming in terms of looks but it is the fastest four wheeler on the map only outdone by the Motorcycle. It does have a low HP though which makes it easy to shoot and destroy. It seats four people and is a good vehicle even when under fire because of the high speed and smaller build despite the low HP.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Uazcamo.png"
+    },
+    {
+      "wcategory":"Sedan",
+      "name":"Mirado",
+      "description":"Mirado is the muscle car that is found in the Miramar map and is tied to be the fastest vehicle along with the Motorcycle. It has different color and comes without a top and with one. It seats four people and has a high HP like the UAZ. This vehicle has a very low build and is extremely fast which makes it very hard to hit. But the Mirado does not do well off roads which makes it difficult to reach places in the map that are away from roads. Plus more roads mean passing more building which mean more chances of encountering people.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Mirado.jpg"
+    },
+    {
+      "wcategory":"Other",
+      "name":"Motor Glider",
+      "description":"The Motor Glider will be available on only two of PUBG's maps, the original Erangel map, and Miramar. It has two seats, one for the pilot and one for the passenger who can use any weapon from the backseat. It will be spawned randomly around the map.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Motor Glider__.jpg"
+    },
+    {
+      "wcategory":"Motorcycle",
+      "name":"Motorcycle-sidecar",
+      "description":"A trials-style motorbike equipped with a side-car. It seats a driver and two passengers and is one of the fastest vehicle in the game, currently. It has very good traction to the road, however, it can be flipped easily and currently kills all occupants instantly if they fall off of it.Good for duo matches, as it is fast and allows movement and dispersion.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Motorcycle-sidecar.jpg"
+    },
+    {
+      "wcategory":"Motorcycle",
+      "name":"Motorcycle",
+      "description":"The motorcycle is the fastest vehicle on PUBG, though the variant with the sidecar is slightly slower. This has different color schemes for Erangel and Miramar which are Ash and Desert respectively and is available on all the maps. The Motorcycle can traverse anywhere but has less HP than most cars. And it’s important to use the lean back and forward buttons on it to make sure it does not flip. Motorcycles can be used to do stunts though there are no points for that. The regular Motorcycle seats two people while the one with the sidecar seats three. The person in the sidecar can shoot normally while the one riding pillion can only use SMGs and pistols.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Motorcycle.jpeg"
+    },
+    {
+      "wcategory":"Boat",
+      "name":"PG-117",
+      "description":"The PG-117 was the first water transport that was available in the game and seats four people. It is essentially a speed boat that has a high HP and is the fastest water vehicle right now. It has a slow turn rate which means players need to be careful around land, or the vehicle will be stuck.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/PG-117.jpg"
+    },
+    {
+      "wcategory":"Pickup",
+      "name":"Pickup",
+      "description":"The Pickup truck comes in two variants, one of which has and open back, meaning anyone seated out back will be an open target, and one that has a covered back. It is one of the better off-roading vehicles on the Miramar map which is the only map where it is available. It does have pretty low HP which makes it a not the best option for a vehicle is enemies spot you driving around in one. But it is pretty fast which kind of makes up for it. It seats four people.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Pickup.jpg"
+    },
+    {
+      "wcategory":"Pickup",
+      "name":"Rony",
+      "description":"The Rony is the pickup truck for the Sanhok map and is one of the newer vehicles to be introduced to the game. It has one of the lowest engine sounds in the game which means alerting less enemies. It is pretty fast and has a lean build, but any team with more than two people will be exposed to enemies. It seats four people and can off-road pretty well.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Rony.jpeg"
+    },
+    {
+      "wcategory":"Motorcycle",
+      "name":"Scooter",
+      "description":"The Scooter in PUBG is like the Motorcycle, only slower and with much less HP. It is only found on the Sanhok map for now (not in PUBG Mobile, though) and comes in three different colors. The scooter has difficulty handling uphill terrain though it does just fine on roads. It does not have too much in terms of HP so it’s easy to destroy. It seats two people. This should only be used in times of dire need.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Scooter.jpg"
+    },
+    {
+      "wcategory":"Other",
+      "name":"Snowmobile",
+      "description":"The Furo Snowmobile (similar to the Snowbike) is a off-road vehicle that is drivable exclusively on Vikendi map in BATTLEGROUNDS. Snowmobile is a first addition of its vehicle type since release.A classic snowmobile that seats 2 players and performs much better than other vehicles on snow and ice, but is more difficult to drive on other terrain. But where others vehicles fail, the snowmobile out performs under critical instances that call for sudden acceleration and maneuvering on snow or ice. If you're facing a dire need to get out of the blue zone or red zone, the snowmobile is an ideal getaway option.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Snowmobile.jpg"
+    },
+    {
+      "wcategory":"Other",
+      "name":"Tukshai",
+      "description":"The Tukshai or the auto rickshaw as we know it, is one of the newest vehicles to be added to the game and is only available on the Sanhok map (again, not on PUBG Mobile yet). This like the Scooter is low on HP and has trouble handling uphill terrain. It seats three people and has almost the same speed as the Scooter. Again, not a good idea to use to unless absolutely needed because of the slow speed and low HP.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Tukshai.jpg"
+    },
+    {
+      "wcategory":"UAZ",
+      "name":"UAZ (Closed Top)",
+      "description":"The UAZ (Closed Top) is a mid-sized, closed frame vehicle that is entirely closed from the exterior area. Because of this, it provides superior defense against small arms. It is considered one of the best vehicles in the game due to its speed, off-road capability, high fuel and durability.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/UAZ (Closed Top).jpeg"
+    },
+    {
+      "wcategory":"UAZ",
+      "name":"UAZ (Open Top)",
+      "description":"The UAZ is like a hybrid between the Buggy and the Jeep. The entire passenger compartment is exposed to the elements, with only a roll cage and doors to serve as some form of protection. Fuel consumption when at full throttle is quite high, which negates much of the benefit of the vehicle. It is best used off-road, moving between locations, though it is not recommended to drive near major locations as the ignition sound alone can be heard up to 125 meters away.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/UAZ (Open Top).jpg"
+    },
+    {
+      "wcategory":"Pickup",
+      "name":"Van",
+      "description":"The van was introduced to PUBG with the Miramar map. The Van is a six-seat vehicle, it has low maximum speed and driving force but it has the highest HP in the game.With two spare seats, this can also be used to ambush enemy squads. It has the highest health of any vehicle in the game, but this is countered by the fact that it has exceedingly poor acceleration and sluggish handling, as well as poor off-roading capability due to the weak engine which can often struggle to accelerate on a relatively shallow slope, even when flooring the pedal.",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/vehical/Van.jpg"
+    }
+
+  ],
+
+  "uc":[
+    {
+      "name":"150 UC",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/uc/uc.png",
+      "description":"The game has two currencies, i.e. UC and BP. While the latter can be quickly earned for free by playing games, the former needs to be purchased by spending actual money. I recommend you to participate in pubg mobile tournaments which has UC has a gift for winners and even top players. This has pretty good chance to win UC without spending some bucks but you need some good skills. To Apply button click and Collect 150 UC free."
+    },
+    {
+      "name":"250 UC",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/uc/uc.png",
+      "description":"The game has two currencies, i.e. UC and BP. While the latter can be quickly earned for free by playing games, the former needs to be purchased by spending actual money. I recommend you to participate in pubg mobile tournaments which has UC has a gift for winners and even top players. This has pretty good chance to win UC without spending some bucks but you need some good skills. To Apply button click and Collect 250 UC free."
+    },
+    {
+      "name":"770 UC",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/uc/uc.png",
+      "description":"The game has two currencies, i.e. UC and BP. While the latter can be quickly earned for free by playing games, the former needs to be purchased by spending actual money. I recommend you to participate in pubg mobile tournaments which has UC has a gift for winners and even top players. This has pretty good chance to win UC without spending some bucks but you need some good skills. To Apply button click and Collect 770 Uc free."
+    },
+    {
+      "name":"1000 UC",
+      "imgurl":"https://miracocopepsi.com/admin/mayur/coc/vaibhav/AndroidData/uc/uc.png",
+      "description":"The game has two currencies, i.e. UC and BP. While the latter can be quickly earned for free by playing games, the former needs to be purchased by spending actual money. I recommend you to participate in pubg mobile tournaments which has UC has a gift for winners and even top players. This has pretty good chance to win UC without spending some bucks but you need some good skills. To Apply button click and Collect 1000 UC free."
+    }
+  ],
+
+  "winner":[
+    {
+      "name":"Jonathan",
+      "imgurl":"https://statics.sportskeeda.com/editor/2020/04/b6e6e-15857264099878-800.jpg",
+      "description":"Jonathan, who represents TSM-Entity Gaming, has stamped his authority as one of the best in the world in a very short span of time. Fueled with confidence and the zeal to succeed, he is the latest prodigy that has produced jaw-dropping performances. His colleagues gasp at his training methods and his adherence to his practice."
+    },
+    {
+      "name":"Sc0utOP",
+      "imgurl":"https://statics.sportskeeda.com/editor/2020/04/0c2c1-15857260917708-800.jpg",
+      "description":"Sc0ut is one of the biggest influencers in the Indian Gaming Community, as often described by his fans and fellow colleagues. His skills and gyro control are impeccable and are unmatched."
+    },
+    {
+      "name":"Owais",
+      "imgurl":"https://statics.sportskeeda.com/editor/2020/04/7fca6-15857260252438-800.jpg",
+      "description":"Owais from Team Fnatic has the perfect mixture of brain and gun power in his game style. He was part of the indomitable Team SouL and enjoyed a phase where they remained uncontested in all the major tournaments."
+    },
+    {
+      "name":"Franky",
+      "imgurl":"https://statics.sportskeeda.com/editor/2020/04/260c0-15857259951956-800.jpg",
+      "description":"Although Franky is relatively new in this list of elite players, he has made ripples in a very short period of time. He is changing the way we perceive the gun mechanics of this game. Franky views the game, evaluates it and translates it to incredible precision. Fnatic has benefited hugely with the addition of Franky to their current roster ahead of the PUBG Mobile Pro League."
+    },
+    {
+      "name":"SOUL Mortal",
+      "imgurl":"https://img.republicworld.com/republic-prod/stories/images/15822784865e4fa75639588.jpg",
+      "description":"Naman Mathur or better known as SOUL Mortal is a 22-year-old PUBG Mobile player based out of Mumbai, India. He is the most popular PUBG Mobile player from India. His name Mortal started becoming popular as he began uploading more and more PUBG Mobile videos. SOUL Mortal is the conquerer player of season 3, and his e-sports team SOUL won the PUBG Mobile India Series 2019."
+    },
+    {
+      "name":"Biu Biu",
+      "imgurl":"https://img.republicworld.com/republic-prod/stories/images/15822784665e4fa742cdd75.jpg",
+      "description":"He is another pro-level PUBG Mobile player and is based out of Malaysia. He started out playing PUBG Mobile on the China Server and then shifted to the Asia Server. Some of his achievements include Season 4 Squad Rank Conquerer (China Server), Season 3 Squad Rank Conquerer (Asia Server) and Season 4 Squad Rank Conquerer (China Server). Biu Biu also has a YouTube channel where he streams his PUBG Mobile games for his fans. He is the best PUBG player in Malaysia and is one of the top 10 PUBG mobile players around the world."
+    },
+    {
+      "name":"Rollexxx",
+      "imgurl":"https://img.republicworld.com/republic-prod/stories/images/15822784465e4fa72e35ef7.jfif",
+      "description":"Rollexxx is a pro-level PUBG Mobile player based out of the United States of America. He is widely known for streaming his PUBG Mobile games online on his YouTube channel. Rollexxx has also played PUBG Mobile with SOUL Mortal, SOUL Nova, and PowerBang Gaming."
+    },
+    {
+      "name":"BTR Zuxxy",
+      "imgurl":"https://img.republicworld.com/republic-prod/stories/images/15822783705e4fa6e2a88f1.jpg",
+      "description":"He is another pro-level PUBG Mobile player and is based out of Indonesia. BTR Zuxxy also has a YouTube channel where he streams his PUBG Mobile games for his fans. BTR Zuxxy is known for his expertise at Pochinki and his efficiency of using sniper guns. He is the best PUBG player in Indonesia and is one of the top 10 PUBG mobile players around the world."
+    }
+  ]
+}
